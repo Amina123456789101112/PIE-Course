@@ -15,7 +15,7 @@ The project serves as a digital platform to organize and present training sessio
 <h1> 🚀 Key Features</h1>
 <ul>
   <li><b>🎬 Video lessons</b> for each session </li>
- <div style="text-align: center;"> <img src="img\Capture d'écran 2025-11-02 224433.png" width="200" height="200"></div>
+ <div style="text-align: center;border:'solid';"> <img src="img\Capture d'écran 2025-11-02 224433.png" width="500" height="400"></div>
   <li><b>📂 Downloadable resources </b> in multiple formats (PDF, PPT, DOC) </li>
   <li><b>🖱️ Simple navigation </b> between sessions and summary  </li>
   <li><b>🎨 Interactive design </b> (style change via crescent/moon icon)  </li>
