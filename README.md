@@ -67,6 +67,10 @@ The project serves as a digital platform to organize and present training sessio
   <li><b>Ilyasse Daoudi →</b>Content creation (Session preparation & video support) </li>
   <li><b>Mohammed Reffass →</b>Content creation (Session preparation & video support) </li>
 </ul>
+<hr>
+<h1>🔚 Conclusion</h1>
+<p>This project demonstrates a structured and modern approach to web development applied to education. It highlights the value of clear documentation and a polished presentation, essential for any professional project.</p><br>
+<b>Thank you for your time and consideration.</b>
 
 
 
