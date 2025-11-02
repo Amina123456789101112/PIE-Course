@@ -32,3 +32,14 @@ The project serves as a digital platform to organize and present training sessio
 <br><br>
   <li><b>🌍 Accessible online </b> via GitHub Pages :https://amina123456789101112.github.io/PIE-Course/  </li>
 </ul>
+<hr>
+<h1>🛠️ Technologies Used</h1>
+<ul>
+  <li><b>HTML</b></li>
+  <li><b>CSS3</b></li>
+  <li><b>JavaScript</b></li>
+</ul>
+
+
+
+
