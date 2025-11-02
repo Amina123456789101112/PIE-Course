@@ -42,11 +42,11 @@ The project serves as a digital platform to organize and present training sessio
 <hr>
 <h1>📂 Files Included</h1>
 <ul>
-  <li><b>index.html →</b> Main structure of the site  </li>
-  <li><b>style.css → </b> Styling and responsiveness  </li>
-  <li><b>s.js →</b> Interactivity (navigation, style switching)  </li>
-  <li><b>seance/ →</b> Course materials (PDF, DOCX, PPTX)    </li>
-  <li><b>videos/ →</b> Video lessons   </li>
+  <li><b><code>index.html</code> →</b> Main structure of the site  </li>
+  <li><b><code>style.css</code> → </b> Styling and responsiveness  </li>
+  <li><b><code>s.js</code> →</b> Interactivity (navigation, style switching)  </li>
+  <li><b><code>seance/</code>→</b> Course materials (PDF, DOCX, PPTX)    </li>
+  <li><b><code>videos/</code> →</b> Video lessons   </li>
 </ul>
 <hr>
 <h1>🎯 Improvements Made </h1>
