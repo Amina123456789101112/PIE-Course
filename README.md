@@ -12,3 +12,11 @@ The project serves as a digital platform to organize and present training sessio
 </ul><br>
 <p>Each session provides both a <b>visual explanation (video)</b> and a <b>written resource</b> in multiple formats, making the content accessible to different learning styles.</p>
 <br><hr>
+<h1> 🚀 Key Features</h1>
+<ul>
+  <li><b>🎬 Video lessons</b> for each session </li>
+  <li><b>📂 Downloadable resources </b> in multiple formats (PDF, PPT, DOC) </li>
+  <li><b>🖱️ Simple navigation </b> between sessions and summary  </li>
+  <li><b>🎨 Interactive design </b> (style change via crescent/moon icon)  </li>
+  <li><b>🌍 Accessible online </b> via GitHub Pages  </li>
+</ul>
