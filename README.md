@@ -16,12 +16,23 @@ The project serves as a digital platform to organize and present training sessio
 <h1> 🚀 Key Features</h1>
 <ul>
   <li><b>🎬 Video lessons</b> for each session </li>
- <p>
+ <br>
   <img src="img\Capture d'écran 2025-11-02 224433.png" width="600" height="400" alt="screenshot">
-</p>
+<br>
 
   <li><b>📂 Downloadable resources </b> in multiple formats (PDF, PPT, DOC) </li>
+  <br>
+  <img src="img\Capture d'écran 2025-11-02 224652.png" width="600" height="400" alt="screenshot">
+<br>
   <li><b>🖱️ Simple navigation </b> between sessions and summary  </li>
+  <br>
+  <img src="img\Capture d'écran 2025-11-02 224950.png" width="600" height="400" alt="screenshot">
+<br>
   <li><b>🎨 Interactive design </b> (style change via crescent/moon icon)  </li>
-  <li><b>🌍 Accessible online </b> via GitHub Pages  </li>
+  <br><p>
+      <img src="img\Capture d'écran 2025-11-02 223814.png" width="50%" height="400" alt="screenshot">
+    <img src="img\Capture d'écran 2025-11-02 224118.png" width="50%" height="400" alt="screenshot">
+  </p>
+<br>
+  <li><b>🌍 Accessible online </b> via GitHub Pages :https://amina123456789101112.github.io/PIE-Course/  </li>
 </ul>
