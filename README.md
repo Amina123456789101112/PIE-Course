@@ -17,7 +17,7 @@ The project serves as a digital platform to organize and present training sessio
 <ul>
   <li><b>🎬 Video lessons</b> for each session </li>
  <p align="center">
-  <img src="img/capture.png" width="500" height="400" alt="screenshot">
+  <img src="img\Capture d'écran 2025-11-02 224433.png" width="500" height="400" alt="screenshot">
 </p>
 
   <li><b>📂 Downloadable resources </b> in multiple formats (PDF, PPT, DOC) </li>
