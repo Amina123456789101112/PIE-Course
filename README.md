@@ -36,8 +36,27 @@ The project serves as a digital platform to organize and present training sessio
 <h1>🛠️ Technologies Used</h1>
 <ul>
   <li><b>HTML</b></li>
-  <li><b>CSS3</b></li>
+  <li><b>CSS</b></li>
   <li><b>JavaScript</b></li>
+</ul>
+<hr>
+<h1>📂 Files Included</h1>
+<ul>
+  <li><b>index.html →</b> Main structure of the site  </li>
+  <li><b>style.css → </b> Styling and responsiveness  </li>
+  <li><b>s.js →</b> Interactivity (navigation, style switching)  </li>
+  <li><b>seance/ →</b> Course materials (PDF, DOCX, PPTX)    </li>
+  <li><b>videos/ →</b> Video lessons   </li>
+</ul>
+<hr>
+<h1>🎯 Improvements Made </h1>
+<ul>
+  <li>Refactored HTML with semantic elements for better accessibility </li>
+  <li>Added smooth navigation between sessions  </li>
+  <li>Integrated video players for each lesson  </li>
+  <li>Created a <b>download page</b> with multiple formats (PDF, PPT, DOC)   </li>
+  <li>Enhanced design with interactive style switching (light/dark mode)  </li>
+  <li>Organized resources into clear categories (sessions + summary)</li>
 </ul>
 
 
