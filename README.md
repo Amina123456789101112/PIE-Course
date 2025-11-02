@@ -28,7 +28,7 @@ The project serves as a digital platform to organize and present training sessio
   <img src="img\Capture d'écran 2025-11-02 224652.png" width="600" height="400" alt="screenshot">
 <br>
   <li><b>🎨 Interactive design </b> (style change via crescent/moon icon)  </li>
-  <br>| <img src="img/capture1.png" width="300"> | <img src="img/capture2.png" width="300"> |
+  <br>| <img src="img\Capture d'écran 2025-11-02 223814.png" width="300"> | <img src="img\Capture d'écran 2025-11-02 224118.png" width="300"> |
 <br>
   <li><b>🌍 Accessible online </b> via GitHub Pages :https://amina123456789101112.github.io/PIE-Course/  </li>
 </ul>
