@@ -16,7 +16,7 @@ The project serves as a digital platform to organize and present training sessio
 <h1> 🚀 Key Features</h1>
 <ul>
   <li><b>🎬 Video lessons</b> for each session </li>
- <p align="center">
+ <p>
   <img src="img\Capture d'écran 2025-11-02 224433.png" width="600" height="400" alt="screenshot">
 </p>
 
