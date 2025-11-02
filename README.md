@@ -1,7 +1,7 @@
 
-<h1>🌱 PIE_Cours – Programme d’Innovation d’Entrepreneur</h1>
-<p><b>PIE_Cours</b> is an interactive educational website created as part of the <b>Programme d’Innovation d’Entrepreneur (PIE)</b> .  
-The project serves as a digital platform to organize and present training sessions, combining <b>video explanations</b> ,<b>downloadable resources</b> , and <b>clear navigation</b> for an engaging learning experience.</p><br>
+<h1>🌱 PIE_Course – Entrepreneur Innovation Programme </h1>
+<p><b>PIE_Course</b> is an interactive educational website created as part of the <b>Entrepreneur Innovation Programme (PIE)</b> .  
+The project serves as a digital platform to organise and present training sessions, combining <b>video explanations</b>, <b>downloadable resources</b>, and <b>clear navigation</b> for an engaging learning experience.<br>
 <hr></hr>
 <h1>📖 Website Content</h1>
 <ul>
@@ -10,8 +10,8 @@ The project serves as a digital platform to organize and present training sessio
   <li><b>Session 3 →</b> Video + Downloadable course (PDF, PPT, DOC)</li>
   <li><b>Session 4 →</b> Video + Downloadable course (PDF, PPT, DOC)</li>
   <li><b>Summary →</b> A synthesis of all 4 sessions with Video + Downloadable course (PDF, PPT, DOC)</li>
-</ul><br>
-<p>Each session provides both a <b>visual explanation (video)</b> and a <b>written resource</b> in multiple formats, making the content accessible to different learning styles.</p>
+</ul>
+<br><p>Each session provides both a <b>visual explanation (video)</b> and a <b>written resource</b> in multiple formats, making the content accessible to different learning styles.</p>
 <br><hr>
 <h1> 🚀 Key Features</h1>
 <ul>
@@ -81,10 +81,10 @@ The project serves as a digital platform to organize and present training sessio
 <h1>👩‍💻 Project Team </h1>
 <ul>
   <li><b>Amina Tourrisse →</b> Development & Design (site structure, interactivity, styling)    </li>
-  <li><b>Maroufi Kaltoum → </b> Content creation (Session preparation)   </li>
-  <li><b>Abde sselam chbadi →</b>Content creation (Session preparation)</li>
-  <li><b>Ilyasse Daoudi →</b>Content creation (Session preparation & video support) </li>
-  <li><b>Mohammed Reffass →</b>Content creation (Session preparation & video support) </li>
+  <li><b>Maroufi Kaltoum → </b> Content creation (Preparation session)   </li>
+  <li><b>Abde sselam chbadi →</b>Content creation (Preparation session)</li>
+  <li><b>Ilyasse Daoudi →</b>Content creation (Preparation session & support video) </li>
+  <li><b>Mohammed Reffass →</b>Content creation (Preparation session & support video) </li>
 </ul>
 <hr>
 <h1>🔚 Conclusion</h1>
