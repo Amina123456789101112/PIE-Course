@@ -58,7 +58,15 @@ The project serves as a digital platform to organize and present training sessio
   <li>Enhanced design with interactive style switching (light/dark mode)  </li>
   <li>Organized resources into clear categories (sessions + summary)</li>
 </ul>
-
+<hr>
+<h1>👩‍💻 Project Team </h1>
+<ul>
+  <li><b>Amina Tourrisse →</b> Development & Design (site structure, interactivity, styling)    </li>
+  <li><b>Maroufi Kaltoum → </b> Content creation (Session preparation)   </li>
+  <li><b>Abde sselam chbadi →</b>Content creation (Session preparation)</li>
+  <li><b>Ilyasse Daoudi →</b>Content creation (Session preparation & video support) </li>
+  <li><b>Mohammed Reffass →</b>Content creation (Session preparation & video support) </li>
+</ul>
 
 
 
