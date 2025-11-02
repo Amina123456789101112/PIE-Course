@@ -45,8 +45,8 @@ The project serves as a digital platform to organize and present training sessio
   <li><b><code>index.html</code> →</b> Main structure of the site  </li>
   <li><b><code>style.css</code> → </b> Styling and responsiveness  </li>
   <li><b><code>s.js</code> →</b> Interactivity (navigation, style switching)  </li>
-  <li><b><code>seance/</code>→</b> Course materials (PDF, DOCX, PPTX)    </li>
-  <li><b><code>videos/</code> →</b> Video lessons   </li>
+  <li><b><code>`seance1.html` … `seance4.html`</code>→</b> Course materials (PDF, DOCX, PPTX)    </li>
+  <li><b><code>*.mp4</code> →</b> Video lessons   </li>
 </ul>
 <hr>
 <h1>🎯 Improvements Made </h1>
@@ -58,6 +58,25 @@ The project serves as a digital platform to organize and present training sessio
   <li>Enhanced design with interactive style switching (light/dark mode)  </li>
   <li>Organized resources into clear categories (sessions + summary)</li>
 </ul>
+<hr>
+<h1>Project Structure</h1>
+<b>
+  <pre>
+ PIE-Course/
+├── index.html          # Main homepage  
+├── seance1.html        # Session 1 page  
+├── seance2.html        # Session 2 page  
+├── seance3.html        # Session 3 page  
+├── seance4.html        # Session 4 page  
+├── style.css           # Stylesheet  
+├── s.js                # JavaScript for interactivity  
+├── img/                # Screenshots and images  
+│   └── screenshot1.png  
+├── videos/             # Session videos (recommended folder)  
+│   └── session1.mp4  
+└── README.md           # Documentation</b>
+  </pre>
+ 
 <hr>
 <h1>👩‍💻 Project Team </h1>
 <ul>
