@@ -92,6 +92,8 @@ cd PIE-Course
 <h1>🔚 Conclusion</h1>
 <p>This project demonstrates a structured and modern approach to web development applied to education. It highlights the value of clear documentation and a polished presentation, essential for any professional project.</p><br>
 <b>Thank you for your time and consideration.</b>
-
+<p style="text-align: center;">
+  © 2025 Created by Amina Tourisse — All rights reserved
+</p>
 
 
