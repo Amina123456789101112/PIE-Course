@@ -79,7 +79,7 @@ git clone https://github.com/Amina123456789101112/PIE-Course.git
 cd PIE-Course
 
 # 3. Open the main page in your browser
-index.html  ```
+index.html```
 <hr>
 <h1>👩‍💻 Project Team </h1>
 <ul>
