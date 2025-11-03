@@ -61,7 +61,7 @@ The project serves as a digital platform to organise and present training sessio
 <hr>
 <h1>Project Structure</h1>
 <b>
-  <pre>
+  
  PIE-Course/
 ├── index.html          # Main homepage  
 ├── seance1.html        # Session 1 page  
@@ -75,7 +75,7 @@ The project serves as a digital platform to organise and present training sessio
 ├── videos/             # Session videos (recommended folder)  
 │   └── session1.mp4  
 └── README.md           # Documentation</b>
-  </pre>
+  
  
 <hr>
 <h1>👩‍💻 Project Team </h1>
