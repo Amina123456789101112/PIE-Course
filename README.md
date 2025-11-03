@@ -94,7 +94,7 @@ cd PIE-Course
 <b>Thank you for your time and consideration.</b><br><br>
 <div align="center">
 
-[© Created by Amina Tourisse — All rights reserved](#)
+[© Created by Amina Tourrisse — All rights reserved](#)
 
 </div>
 
