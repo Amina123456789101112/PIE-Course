@@ -64,15 +64,7 @@ The project serves as a digital platform to organise and present training sessio
 <ol>
   <li> Clone the repository</li>
   ```bash
-git clone https://github.com/Amina123456789101112/PIE-Course.git
-  ```
-  <li>  Navigate into the project folder </li>
-  ```bash
-cd PIE-Course
-  ```
-  <li> Open the main page in your browser </li>
-  ```bash
-index.html
+  git clone https://github.com/Amina123456789101112/PIE-Course.git
   ```
 </ol>
 <hr>
