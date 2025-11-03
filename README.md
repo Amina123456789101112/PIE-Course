@@ -62,10 +62,10 @@ The project serves as a digital platform to organise and present training sessio
 <p>To run the project locally:</p>
 
 <ol>
-  <li> Clone the repository</li>
-  ```bash
-  git clone https://github.com/Amina123456789101112/PIE-Course.git
-  ```
+  <li> <b>Clone the repository</b></li>
+  <pre><code class="language-bash">
+git clone https://github.com/Amina123456789101112/PIE-Course.git
+</code></pre>
 </ol>
 <hr>
 <h1>👩‍💻 Project Team </h1>
