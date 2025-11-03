@@ -40,7 +40,7 @@ The project serves as a digital platform to organise and present training sessio
   <li>Organized resources into clear categories (sessions + summary)</li>
 </ul>
 <hr>
-<h1>Project Structure</h1>
+<h1>📂 Project Structure</h1>
 <b>
  <pre> 
  PIE-Course/
@@ -53,7 +53,7 @@ The project serves as a digital platform to organise and present training sessio
 ├──<code>s.js</code>                 # JavaScript for interactivity  
 ├──<code>img/</code>                 # Screenshots and images  
 │   └── Capture...png
-├── <code>*.mp4  </code>          # Session videos (recommended folder)  
+├── <code>*.mp4  </code>             # Session videos (recommended folder)  
 └── <code>README.md</code>           # Documentation</b>
   
  </pre>
