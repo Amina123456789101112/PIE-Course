@@ -69,12 +69,17 @@ The project serves as a digital platform to organise and present training sessio
  </pre>
  <hr>
 <h1>⚡ Getting Started</h1>
-<p>To run the project locally:
+<p>To run the project locally:</p>
 
-```bash</p>
-<ol>
-<li> <b> Clone the repository</b><br>git clone https://github.com/Amina123456789101112/PIE-Course.git </li>
-</ol>
+```bash
+# 1. Clone the repository
+git clone https://github.com/Amina123456789101112/PIE-Course.git
+
+# 2. Navigate into the project folder
+cd PIE-Course
+
+# 3. Open the main page in your browser
+index.html  ```
 <hr>
 <h1>👩‍💻 Project Team </h1>
 <ul>
