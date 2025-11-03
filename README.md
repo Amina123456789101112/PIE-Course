@@ -17,7 +17,7 @@ The project serves as a digital platform to organise and present training sessio
 <br><br>
   <li><b> Downloadable resources </b> in multiple formats (PDF, PPT, DOC) for each session and summary </li>
   <br>
-  <img src="img\Capture d'écran 2025-11-02 224652.png" width="600" height="400" alt="screenshot">
+  | <img src="img\Capture d'écran 2025-11-02 224612.png" width="300"> | <img src="img\Capture d'écran 2025-11-02 224652.png" width="300"> |
 <br><br>
   <li><b>Interactive design </b> (style change via crescent/moon icon)  </li>
   <br>| <img src="img\Capture d'écran 2025-11-02 223814.png" width="300"> | <img src="img\Capture d'écran 2025-11-02 224118.png" width="300"> |
