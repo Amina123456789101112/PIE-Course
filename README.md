@@ -40,15 +40,6 @@ The project serves as a digital platform to organise and present training sessio
   <li><b>JavaScript</b></li>
 </ul>
 <hr>
-<h1>📂 Files Included</h1>
-<ul>
-  <li><b><code>index.html</code> →</b> Main structure of the site  </li>
-  <li><b><code>style.css</code> → </b> Styling and responsiveness  </li>
-  <li><b><code>s.js</code> →</b> Interactivity (navigation, style switching)  </li>
-  <li><b><code>`seance1.html` … `seance4.html`</code>→</b> Course materials (PDF, DOCX, PPTX)    </li>
-  <li><b><code>*.mp4</code> →</b> Video lessons   </li>
-</ul>
-<hr>
 <h1>🎯 Improvements Made </h1>
 <ul>
   <li>Refactored HTML with semantic elements for better accessibility </li>
@@ -76,6 +67,14 @@ The project serves as a digital platform to organise and present training sessio
 └── <code>README.md</code>           # Documentation</b>
   
  </pre>
+ <hr>
+<h1>⚡ Getting Started</h1>
+<p>To run the project locally:
+
+```bash</p>
+<ol>
+<li> <b> Clone the repository</b><br>git clone https://github.com/Amina123456789101112/PIE-Course.git </li>
+</ol>
 <hr>
 <h1>👩‍💻 Project Team </h1>
 <ul>
