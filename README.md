@@ -61,22 +61,21 @@ The project serves as a digital platform to organise and present training sessio
 <hr>
 <h1>Project Structure</h1>
 <b>
-  
+ <pre> 
  PIE-Course/
-├── index.html          # Main homepage  
-├── seance1.html        # Session 1 page  
-├── seance2.html        # Session 2 page  
-├── seance3.html        # Session 3 page  
-├── seance4.html        # Session 4 page  
-├── style.css           # Stylesheet  
-├── s.js                # JavaScript for interactivity  
-├── img/                # Screenshots and images  
-│   └── screenshot1.png  
-├── videos/             # Session videos (recommended folder)  
-│   └── session1.mp4  
-└── README.md           # Documentation</b>
+├──<code>index.html</code>           # Main homepage  
+├──<code>seance1.html</code>         # Session 1 page  
+├──<code>seance2.html </code>        # Session 2 page  
+├──<code>seance3.html</code>         # Session 3 page  
+├──<code>seance4.html</code>         # Session 4 page  
+├──<code>style.css </code>           # Stylesheet  
+├──<code>s.js</code>                 # JavaScript for interactivity  
+├──<code>img/</code>                 # Screenshots and images  
+│   └── Capture...png
+├── <code>*.mp4  </code>          # Session videos (recommended folder)  
+└── <code>README.md</code>           # Documentation</b>
   
- 
+ </pre>
 <hr>
 <h1>👩‍💻 Project Team </h1>
 <ul>
