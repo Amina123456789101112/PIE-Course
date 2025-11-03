@@ -70,6 +70,12 @@ git clone https://github.com/Amina123456789101112/PIE-Course.git
   <pre><code class="language-bash">
 cd PIE-Course
   </code></pre>
+  <li> <b> Open <code>index.html</code> in your browser</b> </li>
+  <ul>
+    <li>Use the navigation menu to access sessions and the final summary.</li>
+    <li>Switch between <b> Light/Dark mode</b>.</li>
+    <li>Download resources (PDF, PPT, DOC) from each session page.</li>
+  </ul>
 </ol>
 <hr>
 <h1>👩‍💻 Project Team </h1>
